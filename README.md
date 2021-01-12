@@ -1,5 +1,5 @@
 # Music Player
-This is the first of three projects of the React course that I'm taking at [http://developedbyed.com](http://developedbyed.com/)
+This is the first of three projects of the React course that I'm taking at [https://developedbyed.com](https://developedbyed.com/)
 
 It's a music player that plays Chill and Lofi songs.
 ## Screenshots
